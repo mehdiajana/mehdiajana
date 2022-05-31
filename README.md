@@ -4,10 +4,10 @@
 -----
 
 
-[![Github](https://img.shields.io/github/followers/bissaoui?label=Follow&style=social)](https://github.com/bissaoui)
+[![Github](https://img.shields.io/github/followers/mehdiajana?label=Follow&style=social)](https://github.com/mehdiajana)
 
 
-<div size='20px'> Hi! My name is Bissaoui Yassine. Thank You for taking the time to view my GitHub Profile :smile:
+<div size='20px'> Hi! My name is Ajana Mehdi. Thank You for taking the time to view my GitHub Profile :smile:
 </div>
 
 
